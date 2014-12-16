@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#right-align{
+  text-align: right;  
+}
+.wrap{
+    width:100%;
+    margin:0 auto;
+    border:0px solid #ccc;
+    height:100%;
+}
+.first{
+    width:50%;
+    border:0px solid #99ccff;
+    height:700px;
+    float:left;
+}
+#second{
+    border:1px solid #ffcc66;
+    margin-left:50%;
+    height:100%;
+    
+}
+.gallery{
+    width: 150px; /* Ширина */
+    background: #fff;
+    margin: 0px 5px 15px 0; /* Отступы */
+    text-align: center; /* Выравнивание по центру */
+    float: left; 
+}
